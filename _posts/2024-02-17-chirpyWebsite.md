@@ -1,6 +1,6 @@
 ---
 title: Hello saleslab
-date: 2024-02-17 12:00:00 -500
+date: 2024-02-17 12:00:00 -0500
 categories: [sales]
 tags: [scripting, sales, land] #tags should always be lowercase
 ---
